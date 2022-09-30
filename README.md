@@ -1,2 +1,0 @@
-# devi
-uploading html files
